@@ -1,0 +1,62 @@
+p {
+    font-size: 20px;
+    right: 0px;
+    border: 0px solid white;
+    padding: 10px;
+}
+
+h1 {
+    background-color: lightyellow;
+    font-size: 70px;
+}
+.ingredients h1 {
+    font-size: 50px;
+}
+
+.steps h1 {
+    font-size: 50px;
+}
+
+.general {
+    margin-left: 400px;
+    margin-right: 400px;
+    text-align: center;
+    right: 0px;
+    border: 7px solid #73AD21;
+    padding: 10px;
+    border-radius: 10% / 50%;
+}
+
+body {
+    text-align: center;
+    margin-bottom: 200px;
+}
+
+.steps ol {
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: left;
+}
+
+li {  
+    font-size: 20px;
+    margin: 0 0 25px 0;
+}
+  
+.ingredients li {
+    font-size: 20px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-left: 450px;
+    margin-right: 400px;
+    text-align: left;
+    right: 0px;
+    border: none;
+    padding: 10px;
+}
+
+#intro {
+    margin-left: 150px;
+    margin-right: 150px;
+}
